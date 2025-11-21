@@ -1,5 +1,7 @@
 # EFC-02-Padroes-e-Arquitetura-de-Software
 
+Gustavo Lessio Cossolini-23012637
+Felipe Proença da Silva-23011910
 
 Sistema de locadora de carros
 
